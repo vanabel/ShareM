@@ -1,2 +1,3 @@
 # ShareM
-Share Music with Lossless Compress
+Share Lossless Compressed Music Freely!
+
